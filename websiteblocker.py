@@ -1,6 +1,7 @@
+
 host_path="hosts"
 redirect="127.0.0.1"
-
+#changed the
 website_list=["www.google.com","www.facebook.com","www.twitter.com"]
 with open(host_path, 'r+') as file :
     content = file.read()
