@@ -1,4 +1,4 @@
-print("Die Rolling simulator")
+print("Die Rolling simulator\n")
 from random import randint
 
 a=input('Enter P/p to roll the Die or Q/q ti quit')
